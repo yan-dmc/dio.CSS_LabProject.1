@@ -1,3 +1,11 @@
+✨ **Desafio da Plataforma DIO.me** ✨
+
+📌 **Ferramentas Utilizadas:**
+- 🌐 **HTML**
+- 🎨 **CSS**  
+
+https://yan-dmc.github.io/dio.CSS_LabProject.1/
+
 # Desafio 01: Criando sua primeira Landing Page com HTML e CSS
 
 Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
